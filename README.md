@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Vinicius Ferrari
 **Desenvolvedor Back-End**
 
-Atualmente, estou me aprofundando em Java, explorando desde conceitos de Programação Orientada a Objetos (POO) até o desenvolvimento de aplicações web com Spring Boot. Também possuo conhecimentos em banco de dados como SQL Server e PostgreSQL, o que me permite desenvolver aplicações completas e funcionais.
+Meu nome é Vinicius Ferrari, tenho 20 anos e sou estudante de Engenharia de Software na Universidade São Francisco. Atualmente, estou me aprofundando em Java, explorando desde conceitos de Programação Orientada a Objetos (POO) até o desenvolvimento de aplicações web com Spring Boot. Também possuo conhecimentos em banco de dados como SQL Server e PostgreSQL, o que me permite desenvolver aplicações completas e funcionais.
  
 <div> 
   <a href = "mailto:viniciusferrari742@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
