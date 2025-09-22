@@ -1,16 +1,22 @@
-## Hi there 👋
+## Olá! Eu sou o Vinicius Ferrari
+**Desenvolvedor Back-End**
 
-<!--
-**Viniferrari18/Viniferrari18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente, estou me aprofundando em Java, explorando desde conceitos de Programação Orientada a Objetos (POO) até o desenvolvimento de aplicações web com Spring Boot. Também possuo conhecimentos em banco de dados como SQL Server e PostgreSQL, o que me permite desenvolver aplicações completas e funcionais.
+ 
+<div> 
+  <a href = "mailto:viniciusferrari742@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/viniciusmferrari" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
-Here are some ideas to get you started:
+##
+**🤖 Linguagens e Tecnologias**
+<div style="display: inline_block">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img align="center" alt="postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />                               
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
